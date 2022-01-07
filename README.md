@@ -5,9 +5,7 @@ It is completely responsive for all screen sizes. For this, I have taken help fr
 ### **_Technologies Used:_**
 
 ![download](https://user-images.githubusercontent.com/61355945/148578543-3660b6e4-e5c2-4f12-8718-285fdd8bcdad.png)
-
 ![download](https://user-images.githubusercontent.com/61355945/148578305-e1d9d52c-fda3-4343-9dc3-bf6684022c68.png)
-
 ![download](https://user-images.githubusercontent.com/61355945/148578360-c91d2dda-1f53-46c7-86b9-432b11550163.jpg)
 
 
@@ -15,5 +13,5 @@ It is completely responsive for all screen sizes. For this, I have taken help fr
 
 https://ashishjangir02082001.github.io/Demo-Ecommerce-Website/index.html
 
-Another website:
+### Another website:
 https://ashishjangir02082001.github.io/Demo---College-Website/index.html
