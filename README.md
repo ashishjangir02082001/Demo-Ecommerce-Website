@@ -14,4 +14,4 @@ It is completely responsive for all screen sizes. For this, I have taken help fr
 https://ashishjangir02082001.github.io/Demo-Ecommerce-Website/index.html
 
 ### Another website:
-https://ashishjangir02082001.github.io/Demo---College-Website/index.html
+https://ashishjangir02082001.github.io/Responsive-College-Website/contact.html
